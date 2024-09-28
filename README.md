@@ -13,4 +13,4 @@ Help me make these changes to the To-Do List:
 - Download the zip file and extract the folder.
 - Go to the directory of the folder and run # npm install.
 - Run the code using # node index.js.
-- Access the site by going to http://localhost:3000/
+- Access the site by going to http://localhost:3000/ after running the above command.
