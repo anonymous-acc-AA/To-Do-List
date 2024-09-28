@@ -1,8 +1,8 @@
 # To-Do-List (Not Quite Doing the To-Do Yet!)
 
-This is a To Do List....but it isn't working 😌, I used an array to implement storage for this due to being limited to use html, css and vanilla JS.
+This is a To Do List...but it isn't working 😌. I used HTML, CSS and Vanilla JS for implementing this, I also used routes for handling POST and DELETE requests. Array based storage was used to store the tasks but they vanish after closing the page.
 
-Work on the following issues:
+Help me make these changes to the To-Do List:
 - The styles are a bit rebellious and aren’t working as intended.
 - Sprinkle in a few effects for the buttons and tasks to make interactions feel satisfying.
 - Implement addition of tasks in the array.
