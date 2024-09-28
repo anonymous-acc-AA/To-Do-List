@@ -47,26 +47,7 @@
       </div>
     </div>
     <script>
-      const checkboxes = document.querySelectorAll('input[type="checkbox"]');
-      const del = document.querySelector("#btn-clear");
-      const form = document.getElementById("taskform");
-      const list = document.getElementById("tasklist");
-
-      checkboxes.forEach((checkbox) => {
-        checkbox.addEventListener("click", (event) => {
-          const selected = event.target;
-          const task = selected.parentElement;
-          if (selected.checked) {
-            task.style.textDecoration = "line-through";
-            selected.disabled = true;
-          } else {
-            task.style.textDecoration = "none"; // Remove line-through style
-          }
-        });
-      });
-      del.addEventListener("click", () => {
-        tasklist.innerHTML = "";
-      });
+      //Implement adding to array functionality
     </script>
   </body>
 </html>
