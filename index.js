@@ -16,12 +16,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/", (req, res) => {
-  const task = req.body.tasks;
-  if (!task || task.trim() === "") {
-  } else {
-    tasks.push(task);
-  }
-  res.redirect("/");
+  // Add logic
 });
 
 function clearArray() {
