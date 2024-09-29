@@ -4,9 +4,9 @@ This is a To Do List...but it isn't working 😌. I used HTML, CSS and Vanilla J
 
 ## Features
 
-- Add task
-- Mark the completion of task
-- Delete the tasks
+-  **Addition of tasks**: Provides user the ability to add tasks to the list.
+-  **Check Tasks**: Allows user to mark the completion od tasks.
+-  **Delete Tasks**: Once the tasks are fulfilled the user can clear the list.
 
 ## Technologies Used
 
